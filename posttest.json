@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The dialysate rate depends on",
+      "answers": {
+        "a": "Blood flow rate",
+        "b": "Pressure",
+        "c": "Patient Clinical history",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Rinsing of the hemodialysis machine during pre and post treatment is done by the solution",
+      "answers": {
+        "a": "Distilled water",
+        "b": "Bicarbonate solution",
+        "c": "a and b",
+        "d": "Concentrated H<sub>2</sub>SO<sub>4</sub>"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The mesh like material used for filtration inside the dialyzer is known as",
+      "answers": {
+        "a": "Fiber sheath",
+        "b": "Semi permeable membrane",
+        "c": "Blood filter membrane",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The anti-clotting agent is hemodialyser is",
+      "answers": {
+        "a": "Heparin",
+        "b": "Augmentin",
+        "c": "H<sub>2</sub>O",
+        "d": "HCL"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The function of the kidney is",
+      "answers": {
+        "a": "Excretion of unwanted substances",
+        "b": "Purification of the blood",
+        "c": "Balancing the substances in the blood",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
