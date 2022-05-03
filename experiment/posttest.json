@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The dialysate rate depends on",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Blood flow rate",
+        "b": "Pressure",
+        "c": "Patient Clinical history",
+        "d": "All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Rinsing of the hemodialysis machine during pre and post treatment is done by the solution",
+      "answers": {
+        "a": "Distilled water",
+        "b": "Bicarbonate solution",
+        "c": "a and b",
+        "d": "Concentrated H<sub>2</sub>SO<sub>4</sub>"
       },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The mesh like material used for filtration inside the dialyzer is known as",
+      "answers": {
+        "a": "Fiber sheath",
+        "b": "Semi permeable membrane",
+        "c": "Blood filter membrane",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The anti-clotting agent is hemodialyser is",
+      "answers": {
+        "a": "Heparin",
+        "b": "Augmentin",
+        "c": "H<sub>2</sub>O",
+        "d": "HCL"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The function of the kidney is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Excretion of unwanted substances",
+        "b": "Purification of the blood",
+        "c": "Balancing the substances in the blood",
+        "d": "All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]

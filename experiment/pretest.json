@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Inflammation of the kidneys is called",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "otitis",
+        "b": "hepatitis",
+        "c": "rephritis",
+        "d": "toxemia"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Most blood pumps use the principle of",
+      "answers": {
+        "a": "peristaltic compression",
+        "b": "centrifuge",
+        "c": "compression",
+        "d": "normal acceleration"
       },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "To reduce hemolysis, the blood pump design should provide a flow that minimises",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "oxygen tension",
+        "b": "turbulence",
+        "c": "body temperature",
+        "d": "continuous flow"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In dialysis the waste products are transferred to the dialysate by",
+      "answers": {
+        "a": "surface tension",
+        "b": "centrifuge",
+        "c": "diffusion",
+        "d": "viscosity variation"
       },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In hemodialysis, the temperature system consists of heater element and switch, seals, housing temperature gauge and Control. Usual temperature range is",
+      "answers": {
+        "a": "33 &#126; 36&deg; C",
+        "b": "33 &#126; 42&deg; C",
+        "c": "38 &#126; 42&deg; C",
+        "d": "36 &#126; 39&deg; C"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
